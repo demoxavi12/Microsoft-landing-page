@@ -3,6 +3,7 @@
 A responsive Microsoft homepage clone built using HTML, CSS, and JavaScript.
 
 ## Features
+
 - Responsive Navbar
 - Mobile Menu Toggle
 - Hero Showcase Section
@@ -12,16 +13,20 @@ A responsive Microsoft homepage clone built using HTML, CSS, and JavaScript.
 - Smooth Hover Effects
 
 ## Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript
 - Font Awesome
 
 ## Screenshots
-(Add screenshots here later)
 
-## Live Demo
-(Add Vercel or Netlify link later)
+![Project Screenshot](preview/preview1.jpeg)
+![Project Screenshot](preview/preview2.jpeg)
+![Project Screenshot](preview/preview3.jpeg)
+![Project Screenshot](preview/menu.jpeg)
+![Project Screenshot](preview/menu-clicked.jpeg)
 
 ## Author
+
 Swaraj Xavier
